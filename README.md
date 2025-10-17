@@ -15,13 +15,14 @@ Motivated Manual QA Engineer with hands-on experience in testing and quality ass
 
 ---
 ## 🤝 My Portfolio:
-<a href="https://drive.google.com/file/d/1lXrEL91CLtq-N8zjyV_z9f1o5wRuPDBA/view?usp=sharing" target="_blank">Checklists</a>
+<a href="https://docs.google.com/spreadsheets/d/1TlUkr3Arir3YGGedH_QqiuN0L4wHDTZSa-Jbb8nQYHE/edit?usp=sharing" target="_blank">Checklists</a>
 
-<a href="https://drive.google.com/file/d/1lXrEL91CLtq-N8zjyV_z9f1o5wRuPDBA/view?usp=sharing" target="_blank">Test suites and test cases</a>
+<a href="https://docs.google.com/spreadsheets/d/1K9JMvjvnmp51Jh6BGLtRZ83ht_-Rk_J1YI8G9e5HL3Y/edit?usp=sharing" target="_blank">Test suites and test cases</a>
 
-<a href="https://drive.google.com/file/d/1lXrEL91CLtq-N8zjyV_z9f1o5wRuPDBA/view?usp=sharing" target="_blank">Bug reports</a>
+<a href="https://docs.google.com/spreadsheets/d/1LDCcM6bZ7tqu1XSOThZM-nHxGVjpVwrHBw2c-DefU_0/edit?usp=sharing" target="_blank">Bug reports</a>
 
-<a href="https://drive.google.com/file/d/1lXrEL91CLtq-N8zjyV_z9f1o5wRuPDBA/view?usp=sharing" target="_blank">API</a>
+API (to be added later)
+<!--<a href="https://drive.google.com/file/d/1lXrEL91CLtq-N8zjyV_z9f1o5wRuPDBA/view?usp=sharing" target="_blank">API</a>-->
 
 ---
 ## 📁 My skills:
